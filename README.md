@@ -2,8 +2,6 @@
 
 This project is a web-based personal finance manager dashboard built using Next.js and Vercel PostgreSQL. The dashboard aggregates essential financial data to help users track metrics like profits, sales, and customer activity, and it provides easy-to-read visualizations to support data-driven decision-making.
 
-**[View the live application here](https://dbms-mini-project-pi.vercel.app/dashboard)**
-
 ## Table of Contents
 
 - [Features](#features)
@@ -55,7 +53,7 @@ PostgreSQL: Version compatible with Vercel PostgreSQL
 Clone the Repository
 
 ```bash
-git clone https://github.com/kautilyadevaraj/DBMS_mini_project.git
+git clone https://github.com/Freya135/Personal-Finance-Manager.git
 cd finance-manager-dashboard
 ```
 
